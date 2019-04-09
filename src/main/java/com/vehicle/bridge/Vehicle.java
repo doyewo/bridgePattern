@@ -2,7 +2,7 @@ package com.vehicle.bridge;
 
 import com.vehicle.bridge.Garage;
 
-abstract class Vehicle implements Garage {
+abstract class Vehicle {
     protected Garage garage1;
     protected Garage garage2;
 
