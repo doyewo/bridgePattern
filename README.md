@@ -1,4 +1,4 @@
-# # Bridge Pattern
+## Bridge Pattern
 # COMP 373/473
 **Dexter Oyewo**
 
