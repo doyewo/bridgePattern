@@ -12,6 +12,7 @@ To run main method:
 src/main/java/com.vehicle.bridge/BridgePattern
 
 Resources:
+
 https://sourcemaking.com/design_patterns/bridge
 
 https://www.geeksforgeeks.org/bridge-design-pattern/
