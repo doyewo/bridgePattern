@@ -1,5 +1,5 @@
 # Bridge Pattern
-# COMP 373/473
+## COMP 373/473
 **Dexter Oyewo**
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
